@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "well@mail.com",
+        "username": "wellwell",
+        "bio": null,
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IndlbGxAbWFpbC5jb20iLCJ1c2VybmFtZSI6IndlbGx3ZWxsIiwiaWF0IjoxNjgxNTc5NzM0LCJleHAiOjE2ODY3NjM3MzR9.mA3NPuxVAIelC0g0MzGa7rbJOMl9M72GBYU3ig5vUQc"
+    }
+}
